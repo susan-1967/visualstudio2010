@@ -1,0 +1,15 @@
+F:\PresentacionNet\Solutiondemo\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+F:\PresentacionNet\Solutiondemo\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+F:\PresentacionNet\Solutiondemo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaNegocio.xml
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaEntidad.dll
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaDatos.xml
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaEntidad.pdb
+F:\PresentacionNet\Solutiondemo\CapaNegocio\bin\Debug\CapaEntidad.xml
+F:\PresentacionNet\Solutiondemo\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\PresentacionNet\Solutiondemo\CapaNegocio\obj\Debug\CapaNegocio.xml
+F:\PresentacionNet\Solutiondemo\CapaNegocio\obj\Debug\CapaNegocio.pdb

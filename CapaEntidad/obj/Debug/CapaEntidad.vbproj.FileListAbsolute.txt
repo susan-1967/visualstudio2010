@@ -1,0 +1,8 @@
+F:\PresentacionNet\Solutiondemo\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\PresentacionNet\Solutiondemo\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\PresentacionNet\Solutiondemo\CapaEntidad\bin\Debug\CapaEntidad.xml
+F:\PresentacionNet\Solutiondemo\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+F:\PresentacionNet\Solutiondemo\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+F:\PresentacionNet\Solutiondemo\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\PresentacionNet\Solutiondemo\CapaEntidad\obj\Debug\CapaEntidad.xml
+F:\PresentacionNet\Solutiondemo\CapaEntidad\obj\Debug\CapaEntidad.pdb

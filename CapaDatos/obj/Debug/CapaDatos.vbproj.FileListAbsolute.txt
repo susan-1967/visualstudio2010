@@ -1,0 +1,8 @@
+F:\PresentacionNet\Solutiondemo\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+F:\PresentacionNet\Solutiondemo\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+F:\PresentacionNet\Solutiondemo\CapaDatos\bin\Debug\CapaDatos.dll
+F:\PresentacionNet\Solutiondemo\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\PresentacionNet\Solutiondemo\CapaDatos\bin\Debug\CapaDatos.xml
+F:\PresentacionNet\Solutiondemo\CapaDatos\obj\Debug\CapaDatos.dll
+F:\PresentacionNet\Solutiondemo\CapaDatos\obj\Debug\CapaDatos.xml
+F:\PresentacionNet\Solutiondemo\CapaDatos\obj\Debug\CapaDatos.pdb

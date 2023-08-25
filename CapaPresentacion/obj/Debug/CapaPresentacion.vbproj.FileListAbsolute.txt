@@ -1,0 +1,15 @@
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaPresentacion.dll
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaPresentacion.pdb
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaPresentacion.xml
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaNegocio.dll
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaDatos.dll
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaNegocio.pdb
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaNegocio.xml
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaDatos.pdb
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\bin\CapaDatos.xml
+F:\PresentacionNet\Solutiondemo\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
